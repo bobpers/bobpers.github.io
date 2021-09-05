@@ -1,0 +1,12 @@
+body {
+  margin: 0 auto;
+  width: 300px;
+}
+
+.done {
+  text-decoration: line-through;
+}
+
+.hidden {
+  display: none;
+}
